@@ -10,6 +10,13 @@
 # >Hi welcome to ruby prog
 # New file Hello.txt is created!
 
+
+print "Please enter Filename : ";
+str1=gets;
+print "Please enter text";
+str2 =gets;
+print "Answer :(New File is created) ""\n",Hello.txt;
+
 # >2
 # Enter Filename to delete
 # >Hello.txt
